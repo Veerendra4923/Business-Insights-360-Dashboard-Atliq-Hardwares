@@ -135,16 +135,8 @@ Business Insights 360 now acts as AtliQ’s **single source of truth**, enabling
 ---
 
 ## **6. Screenshots / Demos**
-https://github.com/Veerendra4923/Business-Insights-360-Dashboard-Atliq-Hardwares/blob/main/Screenshot%202025-11-20%20092806.png
+how what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview]()
 
 
 ---
-
-If you'd like, I can also prepare:
-
-✅ A **LinkedIn post version**
-✅ A **GitHub README.md** version
-✅ A **one-slide project summary**
-✅ A **resume bullet point** version
-
-Just tell me what you need!
