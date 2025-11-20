@@ -135,7 +135,7 @@ Business Insights 360 now acts as AtliQ’s **single source of truth**, enabling
 ---
 
 ## **6. Screenshots / Demos**
-
+https://github.com/Veerendra4923/Business-Insights-360-Dashboard-Atliq-Hardwares/blob/main/Screenshot%202025-11-20%20092806.png
 
 
 ---
